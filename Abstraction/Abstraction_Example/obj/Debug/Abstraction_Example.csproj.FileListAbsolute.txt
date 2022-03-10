@@ -1,0 +1,11 @@
+C:\Users\Sefer\source\repos\Abstraction_Example\Abstraction_Example\bin\Debug\Abstraction_Example.exe.config
+C:\Users\Sefer\source\repos\Abstraction_Example\Abstraction_Example\bin\Debug\Abstraction_Example.exe
+C:\Users\Sefer\source\repos\Abstraction_Example\Abstraction_Example\bin\Debug\Abstraction_Example.pdb
+C:\Users\Sefer\source\repos\Abstraction_Example\Abstraction_Example\obj\Debug\Abstraction_Example.csproj.AssemblyReference.cache
+C:\Users\Sefer\source\repos\Abstraction_Example\Abstraction_Example\obj\Debug\Abstraction_Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sefer\source\repos\Abstraction_Example\Abstraction_Example\obj\Debug\Abstraction_Example.EstatePage.resources
+C:\Users\Sefer\source\repos\Abstraction_Example\Abstraction_Example\obj\Debug\Abstraction_Example.Properties.Resources.resources
+C:\Users\Sefer\source\repos\Abstraction_Example\Abstraction_Example\obj\Debug\Abstraction_Example.csproj.GenerateResource.cache
+C:\Users\Sefer\source\repos\Abstraction_Example\Abstraction_Example\obj\Debug\Abstraction_Example.csproj.CoreCompileInputs.cache
+C:\Users\Sefer\source\repos\Abstraction_Example\Abstraction_Example\obj\Debug\Abstraction_Example.exe
+C:\Users\Sefer\source\repos\Abstraction_Example\Abstraction_Example\obj\Debug\Abstraction_Example.pdb
